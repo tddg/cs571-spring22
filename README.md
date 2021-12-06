@@ -1,1 +1,2 @@
-# cs571-spring22
+# CS571: Operating Systems (Spring 2022)
+

@@ -1,0 +1,105 @@
+---
+layout: page
+title: "Course Information"
+permalink: /info.html
+---
+
+## Syllabus
+
+The course syllabus is posted [here](https://cs.gmu.edu/media/syllabi/Spring2022/CS_571ChengY.html).
+
+## Instructor's office hours
+
+* Where: Virtual
+* When: TBD
+
+## GTA & office hours
+
+* TBD
+* Email: [tbd@mgmu.edu](mailto:tbd@gmu.edu)
+* Where: TBD
+* When: TBD
+
+
+
+## Prerequisite
+
+Grade of C or better in *CS310, CS 367, and CS 465*. All students
+**MUST** be comfortable with programming in the C language. This is a
+strong requirement. 
+
+
+
+## Reading
+
+There are no official textbooks. Required readings are (most
+frequently) in the form of seminal research papers and/or selected
+textbook chapters of the awesome OSTEP textbook. 
+
+If you need a textbook to review and catch background, go get **OSTEP**,
+which is an excellent resource for learning OS and is completely
+free. OSTEP and is **publicly available** at: 
+
+* [Operating Systems: Three Easy Pieces (OSTEP)](http://pages.cs.wisc.edu/~remzi/OSTEP/), by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Aug, 2018 (v 1.00)
+
+I also strongly encourage you to discuss the papers with other
+students in the class — you may have insights that others do not, and
+vice versa. Oftentimes, students form reading groups, which I
+encourage; on the other hand, I would like to point out that group
+discussion is **not an effective substitute for actually reading the
+paper**.
+
+
+
+## Class participation
+
+In addition to textbook concepts that I will cover in the form of
+lectures, for research papers, we will use a discuss-oriented format.
+Therefore, class participation is required. We will discuss the
+papers and articles that we will have all read before each class. I
+will provide you with a review form that you must complete and submit
+before the class. I will provide feedback to your paper reviews the
+night before the class. During the class, I will lead discussions by
+asking questions of students at random in class. Note that your
+performance in class form 10% of your overall grade, so it does
+matter that you both show up to class and participate in the
+discussion (which in fact requires you to read the papers). 
+
+
+
+## Labs and research projects
+
+TBD
+
+
+
+## GitLab rules
+
+Refer to [GitLab Setup]({{ site.baseurl }}/gitlab_setup.html) for
+detailed instructions on setting up GitLab repos.
+
+
+
+
+## Grading policy (TBD)
+
+Your grade will be calculated as follows:
+
+* 10% class participation
+* 10% paper reviews
+* 20% programming labs
+* 5% project proposal
+* 5% project checkpoint report 1
+* 5% project checkpoint report 2
+* 45% final project report, presentation, artifact eval
+
+## Grading rules
+
+The final grade is computed according to the following rules:
+
+* A+: >= 97%; A: \[92%, 97%); A-: \[87%, 92%)
+* B+: \[82%, 87%); B: \[77%, 82%); B-: \[72%, 77%)
+* C+: \[66%, 72%); C: \[63%, 66%); C-: \[60%, 63%)
+* D+: \[56%, 60%); D:\[53%, 56%); D-: \[50%, 53%)
+* F: < 50%
+
