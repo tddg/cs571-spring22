@@ -8,9 +8,9 @@ permalink:           pretty
 title:               'CS 571'
 tagline:             'Operating Systems (Spring 2022)'
 description:         'CS 571: Operating Systems<br>George Mason University'
-#url:                 ''
+url:                 ''
 baseurl:             'https://tddg.github.io/cs571-spring22'
-baseurl:             ''
+#baseurl:             ''
 
 # yue's hack
 plugins:
