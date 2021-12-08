@@ -246,7 +246,7 @@ The course schedule is tentative and subject to change\*.
 	<td class="memvirt"> -Memory Virtualization- </td>
 	<td class="concurrency"> -Concurrency- </td>
 	<td class="persistence"> -Persistence- </td>
-	<td class="distsys"> -Distributed Systems- </td>
 	<td class="virt"> -VMs/Containers- </td>
+	<td class="distsys"> -Distributed Systems- </td>
 </tr>
 </table>
