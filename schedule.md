@@ -242,11 +242,11 @@ The course schedule is tentative and subject to change\*.
 <p style='font-size:12pt'>&#42;: Color codings:
 <table style='font-size:12pt'>
 <tr> 
-	<td class="cpuvirt"> -CPU Virtualization- </td>
-	<td class="memvirt"> -Memory Virtualization- </td>
-	<td class="concurrency"> -Concurrency- </td>
-	<td class="persistence"> -Persistence- </td>
-	<td class="virt"> -VMs/Containers- </td>
-	<td class="distsys"> -Distributed Systems- </td>
+	<td align="center" class="cpuvirt"> -CPU Virtualization- </td>
+	<td align="center" class="memvirt"> -Memory Virtualization- </td>
+	<td align="center" class="concurrency"> -Concurrency- </td>
+	<td align="center" class="persistence"> -Persistence- </td>
+	<td align="center" class="virt"> -VMs/Containers- </td>
+	<td align="center" class="distsys"> -Distributed Systems- </td>
 </tr>
 </table>
