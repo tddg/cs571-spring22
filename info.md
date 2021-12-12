@@ -62,7 +62,7 @@ before the class. I will provide feedback to your paper reviews the
 night before the class. During the class, I will lead discussions by
 asking questions of students at random in class. Note that your
 performance in class form 10% of your overall grade, so it does
-matter that you 1) show up to class **and** 2) participate in the
+matter that you 1) show up to class **AND** 2) participate in the
 discussion (which in fact requires you to read the papers). 
 
 
