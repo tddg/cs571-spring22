@@ -62,7 +62,7 @@ before the class. I will provide feedback to your paper reviews the
 night before the class. During the class, I will lead discussions by
 asking questions of students at random in class. Note that your
 performance in class form 10% of your overall grade, so it does
-matter that you both show up to class and participate in the
+matter that you 1) show up to class **and** 2) participate in the
 discussion (which in fact requires you to read the papers). 
 
 
@@ -100,6 +100,6 @@ The final grade is computed according to the following rules:
 * A+: >= 97%; A: \[92%, 97%); A-: \[87%, 92%)
 * B+: \[82%, 87%); B: \[77%, 82%); B-: \[72%, 77%)
 * C+: \[66%, 72%); C: \[63%, 66%); C-: \[60%, 63%)
-* D+: \[56%, 60%); D:\[53%, 56%); D-: \[50%, 53%)
+* D+: \[50%, 60%)
 * F: < 50%
 
