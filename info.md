@@ -38,7 +38,7 @@ textbook chapters of the awesome OSTEP textbook.
 
 If you need a textbook to review and catch background, go get **OSTEP**,
 which is an excellent resource for learning OS and is completely
-free. OSTEP and is **publicly available** at: 
+free. OSTEP is **publicly available** at: 
 
 * [Operating Systems: Three Easy Pieces (OSTEP)](http://pages.cs.wisc.edu/~remzi/OSTEP/), by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, Aug, 2018 (v 1.00)
 
