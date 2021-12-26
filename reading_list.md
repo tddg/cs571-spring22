@@ -58,11 +58,11 @@ permalink: /reading_list.html
 
 ## Distributed Systems
 
-[MapReduce: Simplified Data Processing on Large Clusters]({{ site.baseurl }}/public/papers/mapreduce_osdi04.pdf) [USENIX OSDI 2004]
+[MapReduce: Simplified Data Processing on Large Clusters](https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters) [USENIX OSDI 2004]
 
-[The Google File System]({{ site.baseurl }}/public/papers/gfs_sosp03.pdf) [ACM SOSP 2003]
+[The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) [ACM SOSP 2003]
 
-[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing]({{ site.baseurl }}/public/papers/spark_nsdi12.pdf) [USENIX NSDI 2012]
+[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia) [USENIX NSDI 2012]
 
 [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/conference/usenix-atc-10/presentation/zookeeper-wait-free-coordination-internet-scale-systems) [USENIX ATC 2010] 
 
