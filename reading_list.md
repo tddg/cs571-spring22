@@ -64,6 +64,6 @@ permalink: /reading_list.html
 
 [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing]({{ site.baseurl }}/public/papers/spark_nsdi12.pdf) [USENIX NSDI 2012]
 
-[ZooKeeper: Wait-free coordination for Internet-scale systems]({{ site.baseurl }}/public/papers/zk_atc10.pdf) [USENIX ATC 2010] 
+[ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/conference/usenix-atc-10/presentation/zookeeper-wait-free-coordination-internet-scale-systems) [USENIX ATC 2010] 
 
 
