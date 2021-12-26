@@ -6,7 +6,7 @@ permalink: /reading_list.html
 
 ## OS Scheduling
 
-[ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling]() [ACM SOSP 2021]
+[ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling](https://dl.acm.org/doi/10.1145/3477132.3483542) [ACM SOSP 2021]
 
 [Linux CFS Scheduler](https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html) [The Linux Kernel documentation]
 
@@ -24,7 +24,7 @@ permalink: /reading_list.html
 
 [Cooperative Task Management Without Manual Stack Management](https://www.usenix.org/conference/2002-usenix-annual-technical-conference/cooperative-task-management-without-manual-stack) [USENIX ATC 2002]
 
-[Concurrency Control and Recovery]() [Michael J. Franklin]
+[Concurrency Control and Recovery](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.1437) [Michael J. Franklin]
 
 [Concurrency is not parallelism](https://go.dev/blog/waza-talk) [The Go Programming Language Blog]
 
