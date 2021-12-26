@@ -1,0 +1,69 @@
+---
+layout: page
+title: "Reading List"
+permalink: /reading_list.html
+---
+
+## OS Scheduling
+
+[ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling]() [ACM SOSP 2021]
+
+[Linux CFS Scheduler](https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html) [The Linux Kernel documentation]
+
+
+
+## Memory Management and Caching
+
+[ARC: A Self-Tuning, Low Overhead Replacement Cache](https://www.usenix.org/conference/fast-03/arc-self-tuning-low-overhead-replacement-cache) [USENIX FAST 2003]
+
+[Memory Resource Management in VMware ESX Server](https://dl.acm.org/doi/10.1145/844128.844146) [USENIX OSDI 2002]
+
+
+
+## Concurrency and Synchronization
+
+[Cooperative Task Management Without Manual Stack Management](https://www.usenix.org/conference/2002-usenix-annual-technical-conference/cooperative-task-management-without-manual-stack) [USENIX ATC 2002]
+
+[Concurrency Control and Recovery]() [Michael J. Franklin]
+
+[Concurrency is not parallelism](https://go.dev/blog/waza-talk) [The Go Programming Language Blog]
+
+
+
+## Persistence
+
+[A fast file system for UNIX](https://dl.acm.org/doi/10.1145/989.990) [ACM Transactions on Computer Systems, 1984]
+
+[The design and implementation of a log-structured file system](https://dl.acm.org/doi/10.1145/121132.121137) [ACM SOSP 1991]
+
+[Dynamo: Amazon’s Highly Available Key-value Store](https://dl.acm.org/doi/10.1145/1323293.1294281) [ACM SOSP 2007]
+
+[InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache](https://www.usenix.org/conference/fast20/presentation/wang-ao) [USENIX FAST 2020]
+
+
+
+## Virtual Machines and Containers
+
+[Xen and the art of virtualization](https://dl.acm.org/doi/10.1145/945445.945462) [ACM SOSP 2003]
+
+[Firecracker: Lightweight Virtualization for Serverless Applications](https://www.usenix.org/conference/nsdi20/presentation/agache) [USENIX NSDI 2020]
+
+[My VM is Lighter (and Safer) than your Container](https://dl.acm.org/doi/10.1145/3132747.3132763) [ACM SOSP 2017]
+
+[Blending containers and virtual machines: a study of firecracker and gVisor](https://dl.acm.org/doi/10.1145/3381052.3381315) [ACM VEE 2020]
+
+[The True Cost of Containing: A gVisor Case Study](https://www.usenix.org/conference/hotcloud19/presentation/young) [USENIX HotStorage 2019]
+
+
+
+## Distributed Systems
+
+[MapReduce: Simplified Data Processing on Large Clusters]({{ site.baseurl }}/public/papers/mapreduce_osdi04.pdf) [USENIX OSDI 2004]
+
+[The Google File System]({{ site.baseurl }}/public/papers/gfs_sosp03.pdf) [ACM SOSP 2003] (*optional*)
+
+[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing]({{ site.baseurl }}/public/papers/spark_nsdi12.pdf) [USENIX NSDI 2012]
+
+[ZooKeeper: Wait-free coordination for Internet-scale systems]({{ site.baseurl }}/public/papers/zk_atc10.pdf) [USENIX ATC 2010] 
+
+
