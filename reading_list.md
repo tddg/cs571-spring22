@@ -60,7 +60,7 @@ permalink: /reading_list.html
 
 [MapReduce: Simplified Data Processing on Large Clusters]({{ site.baseurl }}/public/papers/mapreduce_osdi04.pdf) [USENIX OSDI 2004]
 
-[The Google File System]({{ site.baseurl }}/public/papers/gfs_sosp03.pdf) [ACM SOSP 2003] (*optional*)
+[The Google File System]({{ site.baseurl }}/public/papers/gfs_sosp03.pdf) [ACM SOSP 2003]
 
 [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing]({{ site.baseurl }}/public/papers/spark_nsdi12.pdf) [USENIX NSDI 2012]
 
