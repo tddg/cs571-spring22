@@ -40,6 +40,7 @@ permalink: /reading_list.html
 
 [InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache](https://www.usenix.org/conference/fast20/presentation/wang-ao) [USENIX FAST 2020]
 
+[The Case for Learned Index Structures](https://dl.acm.org/doi/10.1145/3183713.3196909) [ACM SIGMOD 2018]
 
 
 ## Virtual Machines and Containers
