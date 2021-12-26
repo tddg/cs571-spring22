@@ -92,7 +92,7 @@ table.calendar thead tr {
 }
 </style>
 
-The course schedule is tentative and subject to change\*.
+The course schedule and the <a href="./reading_list.html">reading list</a> are tentative and subject to change\*.
 
 <p>
 <table class="calendar" cellspacing="0" cellpadding="6" width="100%">
