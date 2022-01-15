@@ -114,7 +114,10 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
   <td class="cpuvirt">Jan 26<br/>
 	<b>Lec 1:</b> Introduction, CPU scheduling (fundamental)
   </td>
-  <td class="nodue">Jan 28</td>
+  <td class="nodue">Jan 28<br/>
+		Take prerequisite <a target="_blank" href="https://docs.google.com/document/d/1NRL5eLQ-KqhZ6f1PSk-vAbaE9y7FKVnD-aXTCUfBlH8/edit?usp=sharing">quiz</a> <br/>
+		Fill out <a target="_blank" href="https://forms.gle/mDEHgcg5iwL1Ty1v8">background survey</a>
+  </td>
 </tr>
 <tr> <!-- week of Feb 2 -->
   <td id="2021-2-2" class="date"><b>Week 2</b></td>

@@ -24,10 +24,9 @@ The course syllabus is posted [here](https://cs.gmu.edu/media/syllabi/Spring2022
 
 ## Prerequisite
 
-Grade of C or better in *CS310, CS 367, and CS 465*. All students
-**MUST** be comfortable with programming in the C language. This is a
-strong requirement. 
-
+* Grade of C or better in *CS 310, CS 367, and CS 465*. 
+* All students **MUST** be comfortable with programming in the C language. This is a strong requirement. 
+* Take this [Quiz](https://docs.google.com/document/d/1NRL5eLQ-KqhZ6f1PSk-vAbaE9y7FKVnD-aXTCUfBlH8/edit?usp=sharing), if you are a graduate student who did your undergradaute study elsewhere and you are not sure if you meet the prerequisites.
 
 
 ## Reading
