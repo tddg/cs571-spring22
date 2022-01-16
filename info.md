@@ -32,7 +32,7 @@ The course syllabus is posted [here](https://cs.gmu.edu/media/syllabi/Spring2022
 ## Reading
 
 There are no official textbooks. Required readings are (most
-frequently) in the form of seminal research papers and/or selected
+frequently) in the form of seminal [research papers](./reading_list.html) and/or selected
 textbook chapters of the awesome OSTEP textbook. 
 
 If you need a textbook to review and catch background, go get **OSTEP**,
