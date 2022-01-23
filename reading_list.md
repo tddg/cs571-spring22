@@ -6,9 +6,9 @@ permalink: /reading_list.html
 
 ## OS Scheduling
 
-[ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling](https://dl.acm.org/doi/10.1145/3477132.3483542) [ACM SOSP 2021]
-
 [Linux CFS Scheduler](https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html) [The Linux Kernel documentation]
+
+[ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling](https://dl.acm.org/doi/10.1145/3477132.3483542) [ACM SOSP 2021]
 
 
 
