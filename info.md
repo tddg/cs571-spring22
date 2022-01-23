@@ -8,17 +8,17 @@ permalink: /info.html
 
 The course syllabus is posted [here](https://cs.gmu.edu/media/syllabi/Spring2022/CS_571ChengY.html).
 
-## Instructor's office hours
+## Instructor's office hours (open studio)
 
-* Where: Virtual
-* When: TBD
+* Where: Zoom
+* When: Friday 10 - 10:30 am
 
 ## GTA & office hours
 
-* TBD
-* Email: [tbd@mgmu.edu](mailto:tbd@gmu.edu)
-* Where: TBD
-* When: TBD
+* Yuyang Leng
+* Email: [yleng2@gmu.edu](mailto:yleng2@gmu.edu)
+* Where: BB Collaborate
+* When: Tuesday and Thursday, 5 - 6 pm
 
 
 
@@ -66,9 +66,9 @@ discussion (which in fact requires you to read the papers).
 
 
 
-## Labs and research projects
+## Research projects
 
-TBD
+Provided in class
 
 
 
@@ -80,17 +80,16 @@ detailed instructions on setting up GitLab repos.
 
 
 
-## Grading policy (TBD)
+## Grading policy
 
 Your grade will be calculated as follows:
 
-* 10% class participation
-* 10% paper reviews
-* 20% programming labs
-* 5% project proposal
-* 5% project checkpoint report 1
-* 5% project checkpoint report 2
-* 45% final project report, presentation, artifact eval
+* 15% class participation
+* 15% paper reviews
+* 10% project proposal
+* 10% project checkpoint report 1
+* 10% project checkpoint report 2
+* 40% final project report, presentation, artifact eval
 
 ## Grading rules
 
