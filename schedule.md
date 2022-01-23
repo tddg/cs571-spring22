@@ -184,7 +184,7 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
 <tr> <!-- week of Mar 30 -->
   <td id="2021-3-30" class="date"><b>Week 10</b></td>
   <td class="persistence">Mar 30<br/>
-	InfiniCache
+	Learned index + InfiniCache
   </td>
   <td class="nodue">Apr 1</td>
 </tr>
