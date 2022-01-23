@@ -126,7 +126,7 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
 	Advanced scheduling: CFS, ghOSt
 	</td>
   <td class="deadline">Feb 4<br/>
-	<span class="hwdue">Pick an idea and form a team</span></td>
+	<span class="hwdue">Pick an idea + form a team</span></td>
 </tr>
 <tr> <!-- week of Feb 9 -->
   <td id="2021-2-9" class="date"><b>Week 3</b></td>
