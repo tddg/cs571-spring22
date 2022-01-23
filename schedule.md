@@ -98,8 +98,8 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
 <table class="calendar" cellspacing="0" cellpadding="6" width="100%">
  <thead>
   <tr>
-   <td width="10%">Week</td><td width="60%">Wednesday</td>
-   <td width="30%">Friday</td>
+   <td width="10%">Week</td><td width="55%">Wednesday</td>
+   <td width="35%">Friday</td>
   </tr>
  </thead>
 
@@ -117,7 +117,7 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
   <td class="nodue">Jan 28<br/>
 	Take prerequisite <a target="_blank" href="https://docs.google.com/document/d/1NRL5eLQ-KqhZ6f1PSk-vAbaE9y7FKVnD-aXTCUfBlH8/edit?usp=sharing">quiz</a> <br/>
 	Fill out <a target="_blank" href="https://forms.gle/mDEHgcg5iwL1Ty1v8">background survey</a> <br/>
-	<span class="assignment">Pick project idea and form a team</span>
+	<span class="assignment">Pick project idea + form a team</span>
   </td>
 </tr>
 <tr> <!-- week of Feb 2 -->
