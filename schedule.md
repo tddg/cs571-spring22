@@ -117,7 +117,7 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
   <td class="nodue">Jan 28<br/>
 	Take prerequisite <a target="_blank" href="https://docs.google.com/document/d/1NRL5eLQ-KqhZ6f1PSk-vAbaE9y7FKVnD-aXTCUfBlH8/edit?usp=sharing">quiz</a> <br/>
 	Fill out <a target="_blank" href="https://forms.gle/mDEHgcg5iwL1Ty1v8">background survey</a> <br/>
-	<span class="assignment">Pick project idea</span></td>
+	<span class="assignment">Pick project idea</span>
   </td>
 </tr>
 <tr> <!-- week of Feb 2 -->
@@ -126,7 +126,7 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
 	Advanced scheduling: CFS, ghOSt
 	</td>
   <td class="deadline">Feb 4<br/>
-	<span class="hwdue">Form a team with an idea</span></td>
+	<span class="hwdue">Pick an idea and form a team</span></td>
 </tr>
 <tr> <!-- week of Feb 9 -->
   <td id="2021-2-9" class="date"><b>Week 3</b></td>
@@ -140,14 +140,13 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
   <td class="memvirt">Feb 16<br/>
 	Memory virtualization (advanced)
 	</td>
-  <td class="deadline">Feb 18<br/>
-	<span class="hwdue">Lab 2 due</span></td>
+  <td class="nodue">Feb 18</td>
 </tr>
 <tr> <!-- week of Feb 23 -->
   <td id="2021-2-23" class="date"><b>Week 5</b></td>
   <td class="concurrency">Feb 23<br/>
 	Concurrency (fundamental)
-	</td>
+  </td>
   <td class="deadline">Feb 25 <br/>
 	<span class="hwdue">Project proposal due</span>
   </td>
@@ -171,8 +170,7 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
   <td class="holiday">Mar 16<br/>
 	Spring recess
 	</td>
-  <td class="nodue">Mar 18<br/>
-  </td>
+  <td class="nodue">Mar 18</td>
 </tr>
 <tr> <!-- week of Mar 23 -->
   <td id="2021-3-23" class="date"><b>Week 9</b></td>
@@ -181,19 +179,20 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
   </td>
   <td class="deadline">Mar 25<br/>
 	<span class="hwdue">Project checkpoint 1 due</span><br/>
+  </td>
 </tr>
 <tr> <!-- week of Mar 30 -->
   <td id="2021-3-30" class="date"><b>Week 10</b></td>
   <td class="persistence">Mar 30<br/>
 	InfiniCache
-	</td>
+  </td>
   <td class="nodue">Apr 1</td>
 </tr>
 <tr> <!-- week of Apr 6 -->
   <td id="2021-4-6" class="date"><b>Week 11</b></td>
   <td class="virt">Apr 6<br/>
 	Xen
-	</td>
+  </td>
   <td class="nodue">Apr 8</td>
 </tr>
 <tr> <!-- week of Apr 13 -->
@@ -203,6 +202,7 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
 	</td>
   <td class="deadline">Apr 15<br/>
 	<span class="hwdue">Project checkpoint 2 due</span><br/>
+  </td>
 </tr>
 <tr> <!-- week of Apr 20 -->
   <td id="2021-4-20" class="date"><b>Week 13</b></td>
@@ -232,7 +232,7 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
 	 </td>
   <td class="deadline">May 13<br/>
 	<span class="hwdue">Project everything due</span><br/>
-	</td>
+  </td>
 </tr>
 
 </table>
