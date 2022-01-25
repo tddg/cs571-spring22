@@ -117,7 +117,7 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
   <td class="nodue">Jan 28<br/>
 	Take prerequisite <a target="_blank" href="https://docs.google.com/document/d/1NRL5eLQ-KqhZ6f1PSk-vAbaE9y7FKVnD-aXTCUfBlH8/edit?usp=sharing">quiz</a> <br/>
 	Fill out <a target="_blank" href="https://forms.gle/mDEHgcg5iwL1Ty1v8">background survey</a> <br/>
-	<span class="assignment">Pick project idea + form a team</span>
+	<span class="assignment">Project list released: Pick your idea+form a team</span>
   </td>
 </tr>
 <tr> <!-- week of Feb 2 -->
@@ -126,14 +126,16 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
 	Advanced scheduling: CFS, ghOSt
 	</td>
   <td class="deadline">Feb 4<br/>
-	<span class="hwdue">Pick an idea + form a team</span></td>
+	<span class="hwdue">Form a team due</span></td>
 </tr>
 <tr> <!-- week of Feb 9 -->
   <td id="2021-2-9" class="date"><b>Week 3</b></td>
   <td class="memvirt">Feb 9<br/>
 	Memory virtualization (fundamental)
 	</td>
-  <td class="nodue">Feb 11</td>
+  <td class="deadline">Feb 11<br/>
+	<span class="hwdue">Pick a project idea due</span>
+  </td>
 </tr>
 <tr> <!-- week of Feb 16 -->
   <td id="2021-2-16" class="date"><b>Week 4</b></td>
