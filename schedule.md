@@ -112,7 +112,7 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
 <tr> <!-- week of Jan 26 -->
   <td id="2021-1-26" class="date"><b>Week 1</b></td>
   <td class="presentation">Jan 26<br/>
-	<b>Lec 1:</b> Introduction
+	<b>Lec 1:</b> Introduction [<a href="./public/lecs/lec1-intro.pdf">slides</a>]
   </td>
   <td class="nodue">Jan 28<br/>
 	Take prerequisite <a target="_blank" href="https://docs.google.com/document/d/1NRL5eLQ-KqhZ6f1PSk-vAbaE9y7FKVnD-aXTCUfBlH8/edit?usp=sharing">quiz</a> <br/>
