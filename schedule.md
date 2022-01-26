@@ -229,11 +229,10 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
 </tr>
 <tr> <!-- week of May 11 -->
   <td id="2021-5-11" class="date"><b>Week 16</b></td>
-  <td class="presentation">May 11<br/>
-	 TBD
-	 </td>
-  <td class="deadline">May 13<br/>
+  <td class="deadline">May 11<br/>
 	<span class="hwdue">Project everything due</span><br/>
+	</td>
+  <td class="nodue">May 13
   </td>
 </tr>
 
