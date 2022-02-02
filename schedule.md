@@ -123,7 +123,8 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
 <tr> <!-- week of Feb 2 -->
   <td id="2021-2-2" class="date"><b>Week 2</b></td>
   <td class="cpuvirt">Feb 2<br/>
-	<b>Lec 2:</b> Basic scheduling [<a href="./public/lecs/lec2-basic-sched.pdf">slides</a>]
+	<b>Lec 2:</b> Basic scheduling [<a href="./public/lecs/lec2-basic-sched.pdf">slides</a>] <br/>
+    <b>Reading:</b> <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf">LDE</a> and <a href="http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/cpu-sched.pdf">Scheduling (intro)</a>
 	</td>
   <td class="deadline">Feb 4<br/>
 	<span class="hwdue">Form a team due</span></td>
