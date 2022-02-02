@@ -94,6 +94,11 @@ table.calendar thead tr {
 
 The course schedule and the <a href="./reading_list.html">reading list</a> are tentative and subject to change\*.
 
+Please enter the composition of your team by
+filling this <a href="https://forms.gle/8EzAp7QNcZ8XeVmV6">Google Form</a>.
+It's preferred that a team has 2 people. If you choose to work as
+a team, only one team member needs to fill the form.
+
 <p>
 <table class="calendar" cellspacing="0" cellpadding="6" width="100%">
  <thead>
