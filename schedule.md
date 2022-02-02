@@ -123,7 +123,7 @@ The course schedule and the <a href="./reading_list.html">reading list</a> are t
 <tr> <!-- week of Feb 2 -->
   <td id="2021-2-2" class="date"><b>Week 2</b></td>
   <td class="cpuvirt">Feb 2<br/>
-	Advanced scheduling: CFS, ghOSt
+	<b>Lec 2:</b> Basic scheduling [<a href="./public/lecs/lec2-basic-sched.pdf">slides</a>]
 	</td>
   <td class="deadline">Feb 4<br/>
 	<span class="hwdue">Form a team due</span></td>
