@@ -136,9 +136,9 @@ a team, only one team member needs to fill the form.
 </tr>
 <tr> <!-- week of Feb 9 -->
   <td id="2021-2-9" class="date"><b>Week 3</b></td>
-  <td class="memvirt">Feb 9<br/>
-	Memory virtualization (fundamental)
-	</td>
+  <td class="cpuvirt">Feb 9<br/>
+	Advanced scheduling
+  </td>
   <td class="deadline">Feb 11<br/>
 	<span class="hwdue">Pick a project idea due</span>
   </td>
@@ -146,14 +146,14 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Feb 16 -->
   <td id="2021-2-16" class="date"><b>Week 4</b></td>
   <td class="memvirt">Feb 16<br/>
-	Memory virtualization (advanced)
+	Memory virtualization (fundamental)
 	</td>
   <td class="nodue">Feb 18</td>
 </tr>
 <tr> <!-- week of Feb 23 -->
   <td id="2021-2-23" class="date"><b>Week 5</b></td>
-  <td class="concurrency">Feb 23<br/>
-	Concurrency (fundamental)
+  <td class="memvirt">Feb 23<br/>
+	Memory virtualization (advanced)
   </td>
   <td class="deadline">Feb 25 <br/>
 	<span class="hwdue">Project proposal due</span>
@@ -162,7 +162,7 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Mar 2 -->
   <td id="2021-3-2" class="date"><b>Week 6</b></td>
   <td class="concurrency">Mar 2<br/>
-	Concurrency (advanced)
+	Concurrency
   </td>
   <td class="nodue">Mar 4</td>
 </tr>
