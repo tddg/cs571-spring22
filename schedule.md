@@ -137,7 +137,7 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Feb 9 -->
   <td id="2021-2-9" class="date"><b>Week 3</b></td>
   <td class="cpuvirt">Feb 9<br/>
-	Advanced scheduling
+	<b>Lec 3:</b> Advanced scheduling
   </td>
   <td class="deadline">Feb 11<br/>
 	<span class="hwdue">Pick a project idea due</span>
