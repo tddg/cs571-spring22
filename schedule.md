@@ -137,7 +137,8 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Feb 9 -->
   <td id="2021-2-9" class="date"><b>Week 3</b></td>
   <td class="cpuvirt">Feb 9<br/>
-	<b>Lec 3:</b> Advanced scheduling
+	<b>Lec 3:</b> Advanced scheduling [<a href="./public/lecs/lec3-advanced-sched.pdf">slides</a>] <br/>
+	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/cpu-sched-mlfq.pdf">MLFQ</a>, <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf">Multi-core Sched (Linux)</a>, <a href="https://man7.org/linux/man-pages/man7/sched.7.html">man 7 sched</a>, and <a href="https://www.kernel.org/doc/html/latest/scheduler/sched-design-CFS.html">Linux CFS</a>
   </td>
   <td class="deadline">Feb 11<br/>
 	<span class="hwdue">Pick a project idea due</span>
