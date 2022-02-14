@@ -84,8 +84,8 @@ detailed instructions on setting up GitLab repos.
 
 Your grade will be calculated as follows:
 
-* 15% class participation
-* 15% paper reviews
+* 20% three mini-exams
+* 10% paper reviews
 * 10% project proposal
 * 10% project checkpoint report 1
 * 10% project checkpoint report 2
