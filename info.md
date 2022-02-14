@@ -60,7 +60,7 @@ will provide you with a review form that you must complete and submit
 before the class. I will provide feedback to your paper reviews the
 night before the class. During the class, I will lead discussions by
 asking questions of students at random in class. Note that your
-performance in class form up to 15% of your overall grade, so it does
+performance in class form up to 10% of your overall grade, so it does
 matter that you 1) show up to class **AND** 2) participate in the
 discussion (which in fact requires you to read the papers). 
 
@@ -85,7 +85,7 @@ detailed instructions on setting up GitLab repos.
 Your grade will be calculated as follows:
 
 * 20% three mini-exams
-* 10% paper reviews
+* 10% paper reviews and in-class participation
 * 10% project proposal
 * 10% project checkpoint report 1
 * 10% project checkpoint report 2
