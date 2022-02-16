@@ -147,7 +147,11 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Feb 16 -->
   <td id="2021-2-16" class="date"><b>Week 4</b></td>
   <td class="memvirt">Feb 16<br/>
-	Memory virtualization (fundamental)
+	Memory virtualization (fundamental) [<a href="./public/lecs/lec4-vm.pdf">slides</a>] <br/>
+	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-intro.pdf">Address spaces</a>, <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-mechanism.pdf">Address translation</a>,
+	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-paging.pdf">Paging</a>,
+	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-tlbs.pdf">TLB</a>,
+	and <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-smalltables.pdf">Adv. PTs</a>
 	</td>
   <td class="nodue">Feb 18</td>
 </tr>
