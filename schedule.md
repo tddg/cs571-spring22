@@ -147,18 +147,19 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Feb 16 -->
   <td id="2021-2-16" class="date"><b>Week 4</b></td>
   <td class="memvirt">Feb 16<br/>
-	<b>Lec 4:</b> Memory virtualization (fundamental) [<a href="./public/lecs/lec4-vm.pdf">slides</a>] <br/>
+	<b>Lec 4:</b> Memory virtualization (fundamental) [<a href="./public/lecs/lec4-vm.pdf">slides</a>] [<a href="./public/lecs/lec4-vm+notes.pdf">] <br/>
 	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-intro.pdf">Address spaces</a>, <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-mechanism.pdf">Address translation</a>,
 	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-paging.pdf">Paging</a>,
 	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-tlbs.pdf">TLB</a>,
-	and <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-smalltables.pdf">Adv. PTs</a>
+	and <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-smalltables.pdf">Adv. PTs</a> <br/>
+	<b>Optional:</b> <a href="https://meltdownattack.com/meltdown.pdf">Meltdown attack paper</a> <a href="https://cacm.acm.org/magazines/2020/6/245161-meltdown/fulltext">CACM article</a>
 	</td>
   <td class="nodue">Feb 18</td>
 </tr>
 <tr> <!-- week of Feb 23 -->
   <td id="2021-2-23" class="date"><b>Week 5</b></td>
   <td class="memvirt">Feb 23<br/>
-	Memory virtualization (advanced)
+	<b>Lec 4 (cont.):</b> Memory virtualization (fundamental)
   </td>
   <td class="deadline">Feb 25 <br/>
 	<span class="hwdue">Project proposal due</span>
@@ -167,7 +168,9 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Mar 2 -->
   <td id="2021-3-2" class="date"><b>Week 6</b></td>
   <td class="concurrency">Mar 2<br/>
-	Concurrency
+	<b>Lec 5:</b> Memory virtualization (advanced) [<a href="./public/lecs/lec5-vm-caching.pdf">slides</a>] <br/>
+	<b>Reading:</b> Beyond physical memory: <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-beyondphys.pdf">Mechanisms</a>,
+	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf">(Caching) Policy</a>
   </td>
   <td class="nodue">Mar 4</td>
 </tr>
