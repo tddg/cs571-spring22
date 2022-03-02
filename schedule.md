@@ -167,7 +167,7 @@ a team, only one team member needs to fill the form.
 </tr>
 <tr> <!-- week of Mar 2 -->
   <td id="2021-3-2" class="date"><b>Week 6</b></td>
-  <td class="concurrency">Mar 2<br/>
+  <td class="memvirt">Mar 2<br/>
 	<b>Lec 5:</b> Memory virtualization (advanced) [<a href="./public/lecs/lec5-vm-caching.pdf">slides</a>] <br/>
 	<b>Reading:</b> Beyond physical memory: <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-beyondphys.pdf">Mechanisms</a>,
 	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf">(Caching) Policy</a>
