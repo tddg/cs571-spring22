@@ -201,21 +201,21 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Mar 30 -->
   <td id="2021-3-30" class="date"><b>Week 10</b></td>
   <td class="persistence">Mar 30<br/>
-	Learned index + InfiniCache
+	SSD, RAID, InfiniCache
   </td>
   <td class="nodue">Apr 1</td>
 </tr>
 <tr> <!-- week of Apr 6 -->
   <td id="2021-4-6" class="date"><b>Week 11</b></td>
   <td class="virt">Apr 6<br/>
-	Xen
+	Virtualization
   </td>
   <td class="nodue">Apr 8</td>
 </tr>
 <tr> <!-- week of Apr 13 -->
   <td id="2021-4-13" class="date"><b>Week 12</b></td>
   <td class="virt">Apr 13<br/>
-	AWS Firecracker
+	Xen, AWS Firecracker
 	</td>
   <td class="deadline">Apr 15<br/>
 	<span class="hwdue">Project checkpoint 2 due</span><br/>
