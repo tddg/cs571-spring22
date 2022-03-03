@@ -168,7 +168,7 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Mar 2 -->
   <td id="2021-3-2" class="date"><b>Week 6</b></td>
   <td class="memvirt">Mar 2<br/>
-	<b>Lec 5:</b> Memory virtualization (advanced) [<a href="./public/lecs/lec5-vm-caching.pdf">slides</a>] <br/>
+	<b>Lec 5:</b> Memory virtualization (advanced) [<a href="./public/lecs/lec5-vm-caching.pdf">slides</a>] [<a href="./public/lecs/lec5-vm-caching+notes.pdf">slides+notes</a>] <br/>
 	<b>Reading:</b> Beyond physical memory: <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/vm-beyondphys.pdf">Mechanisms</a>,
 	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf">(Caching) Policy</a>
   </td>
@@ -176,8 +176,9 @@ a team, only one team member needs to fill the form.
 </tr>
 <tr> <!-- week of Mar 9 -->
   <td id="2021-3-9" class="date"><b>Week 7</b></td>
-  <td class="persistence">Mar 9<br/>
-	File systems (fundamental)
+  <td class="concurrency">Mar 9<br/>
+	Mini exam 1 (7:20pm - 7:50pm) <br/>
+	<b>Lec 6:</b> Concurrency
   </td>
   <td class="nodue">Mar 11</td>
 </tr>
@@ -191,7 +192,7 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Mar 23 -->
   <td id="2021-3-23" class="date"><b>Week 9</b></td>
   <td class="persistence">Mar 23<br/>
-	Amazon Dynamo
+	File systems (fundamental)
   </td>
   <td class="deadline">Mar 25<br/>
 	<span class="hwdue">Project checkpoint 1 due</span><br/>
