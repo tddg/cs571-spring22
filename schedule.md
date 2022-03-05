@@ -178,7 +178,7 @@ a team, only one team member needs to fill the form.
   <td id="2021-3-9" class="date"><b>Week 7</b></td>
   <td class="concurrency">Mar 9<br/>
 	Mini exam 1 (7:20pm - 7:50pm) <br/>
-	<b>Lec 6:</b> Concurrency
+	<b>Lec 6:</b> Concurrency I
   </td>
   <td class="nodue">Mar 11</td>
 </tr>
@@ -191,8 +191,8 @@ a team, only one team member needs to fill the form.
 </tr>
 <tr> <!-- week of Mar 23 -->
   <td id="2021-3-23" class="date"><b>Week 9</b></td>
-  <td class="persistence">Mar 23<br/>
-	File systems (fundamental)
+  <td class="concurrency">Mar 23<br/>
+	<b>Lec 7:</b> Concurrency II
   </td>
   <td class="deadline">Mar 25<br/>
 	<span class="hwdue">Project checkpoint 1 due</span><br/>
@@ -201,21 +201,21 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Mar 30 -->
   <td id="2021-3-30" class="date"><b>Week 10</b></td>
   <td class="persistence">Mar 30<br/>
-	SSD, RAID, InfiniCache
+	<b>Lec 8:</b> Persistence (fundamental): HDD, SSD, FS
   </td>
   <td class="nodue">Apr 1</td>
 </tr>
 <tr> <!-- week of Apr 6 -->
   <td id="2021-4-6" class="date"><b>Week 11</b></td>
-  <td class="virt">Apr 6<br/>
-	Virtualization
+  <td class="persistence">Apr 6<br/>
+	<b>Lec 9:</b> Persistence (advanced): RAID, InfiniCache
   </td>
   <td class="nodue">Apr 8</td>
 </tr>
 <tr> <!-- week of Apr 13 -->
   <td id="2021-4-13" class="date"><b>Week 12</b></td>
   <td class="virt">Apr 13<br/>
-	Xen, AWS Firecracker
+	<b>Lec 10:</b> Virtualization (VM, container)
 	</td>
   <td class="deadline">Apr 15<br/>
 	<span class="hwdue">Project checkpoint 2 due</span><br/>
@@ -224,14 +224,14 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Apr 20 -->
   <td id="2021-4-20" class="date"><b>Week 13</b></td>
   <td class="distsys">Apr 20<br/>
-	MapReduce/GFS
+	<b>Lec 11:</b> MapReduce, GFS
 	</td>
   <td class="nodue">Apr 22</td>
 </tr>
 <tr> <!-- week of Apr 27 -->
   <td id="2021-4-27" class="date"><b>Week 14</b></td>
   <td class="distsys">Apr 27<br/>
-	Spark?
+	<b>Lec 12:</b> Spark
 	</td>
   <td class="nodue">Apr 29</td>
 </tr>
