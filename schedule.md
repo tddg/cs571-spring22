@@ -178,7 +178,11 @@ a team, only one team member needs to fill the form.
   <td id="2021-3-9" class="date"><b>Week 7</b></td>
   <td class="concurrency">Mar 9<br/>
 	Mini exam 1 (7:20pm - 7:50pm) <br/>
-	<b>Lec 6:</b> Concurrency I
+	<b>Lec 6:</b> Concurrency I [<a href="./public/lecs/lec6-concurrency.pdf">slides</a>]<br/>
+	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf">Threads</a>,
+	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf">Concurrency intro</a>,
+	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">Locks</a>, and
+	<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf">Semaphores</a>
   </td>
   <td class="nodue">Mar 11</td>
 </tr>
