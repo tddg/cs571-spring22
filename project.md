@@ -57,13 +57,17 @@ have made to the goal of your project based on your experience so
 far. Also, provide a concrete plan of what you will need to
 accomplish in the remaining weeks to complete your project. 
 
+Your checkpoint #1 report should use a separate, shared Google Doc (a
+separate one from your proposal report). 
+
 
 ### Checkpoint 2 report
 
 Similar as Checkpoint #1. And what's more, you must include primary
 results (e.g., small-scale measurement results, examples that your
-prototype can already handle, etc). Please submit your report via a
-shared Google Doc (so we can comment on specific lines).
+prototype can already handle, etc). Please format your checkpoint #2
+report using [this template](https://github.com/tddg/cs571_report_latex_template). 
+Submissions formatted with other templates are invalid. 
 
 
 ### Final report
@@ -90,8 +94,7 @@ As well as pay attention to:
 Your paper must be no longer than 6 pages. The paper
 can have as many additional pages for references and for supplemental material 
 in appendices. 
-Please format your paper using the [USENIX latex
-template](tbd); submissions formatted with other templates are invalid.
+Please format your paper using the [this template](https://github.com/tddg/cs571_report_latex_template); submissions formatted with other templates are invalid.
 
 
 
