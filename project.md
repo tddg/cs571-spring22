@@ -55,7 +55,8 @@ Your checkpoint report should describe your progress on achieving the
 goals you included in your proposal. Clearly explain any changes you
 have made to the goal of your project based on your experience so
 far. Also, provide a concrete plan of what you will need to
-accomplish in the remaining weeks to complete your project. 
+accomplish in the remaining weeks to complete your project. It's OK
+to report any preliminary results that you have already collected if any. 
 
 Your checkpoint #1 report should use a separate, shared Google Doc (a
 separate one from your proposal report). 
