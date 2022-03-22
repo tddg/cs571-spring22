@@ -196,7 +196,8 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Mar 23 -->
   <td id="2021-3-23" class="date"><b>Week 9</b></td>
   <td class="concurrency">Mar 23<br/>
-	<b>Lec 7:</b> Concurrency II
+	<b>Lec 7:</b> Concurrency II [<a href="./public/lecs/lec7-concurrency-cv.pdf">slides</a>]<br/>
+	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf">CV</a>, <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf">Deadlocks</a>
   </td>
   <td class="deadline">Mar 25<br/>
 	<span class="hwdue">Project checkpoint 1 due</span><br/>
