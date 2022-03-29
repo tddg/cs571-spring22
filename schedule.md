@@ -209,7 +209,7 @@ a team, only one team member needs to fill the form.
 	<b>Lec 8:</b> Persistence (fundamental): HDD, SSD, FS abstraction [<a href="./public/lecs/lec8-persistence-hdd-ssd-fs.pdf">slides</a>] <br/>
 	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-disks.pdf">HDDs</a>,
 	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-ssd.pdf">SSDs</a>, and 
-	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-intro.pdf">File system intro</a>
+	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-intro.pdf">File system intro</a>
   </td>
   <td class="nodue">Apr 1</td>
 </tr>
