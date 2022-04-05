@@ -206,7 +206,7 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Mar 30 -->
   <td id="2021-3-30" class="date"><b>Week 10</b></td>
   <td class="persistence">Mar 30<br/>
-	<b>Lec 8:</b> Persistence (fundamental): HDD, SSD, FS abstraction [<a href="./public/lecs/lec8-persistence-hdd-ssd-fs.pdf">slides</a>] <br/>
+	<b>Lec 8:</b> Persistence (fundamental): HDD, SSD, FS abstraction [<a href="./public/lecs/lec8-persistence-hdd-ssd-fs.pdf">slides</a>] [<a href="./public/lecs/lec8-persistence-hdd-ssd-fs.pptx">pptx+notes</a>] <br/>
 	<b>Reading:</b> <a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-disks.pdf">HDDs</a>,
 	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-ssd.pdf">SSDs</a>, and 
 	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-intro.pdf">File system intro</a>
