@@ -216,7 +216,9 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Apr 6 -->
   <td id="2021-4-6" class="date"><b>Week 11</b></td>
   <td class="persistence">Apr 6<br/>
-	<b>Lec 9:</b> Persistence (advanced): FS impl, RAID, InfiniCache
+	<b>Lec 9:</b> Persistence (advanced): FS impl, RAID, InfiniCache [<a href="./public/lecs/lec9-persistence-fs-raid.pdf">lecture slides</a>] [<a href="./public/lecs/infinicache.pdf">infinicache slides</a>] <br/>
+	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-implementation.pdf">file system implementation</a>, and
+	<a href="https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2016/Book/file-raid.pdf">RAID</a>
   </td>
   <td class="nodue">Apr 8</td>
 </tr>
