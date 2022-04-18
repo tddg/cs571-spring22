@@ -115,8 +115,10 @@ Please format your paper using the [this template](https://github.com/tddg/cs571
 Please prepare a 10-minute presentation and record your presentation (**DO NOT** exceed the 10 minute limit -- we will have penalty if you do). Check out this [Ed post](https://edstem.org/us/courses/16157/discussion/1411792){:target="\_blank"} on how to prepare your presentation video using Zoom. 
 Send the instructor and the GTA the video link and its passcode once it's ready. 
 
-We will have the project presentation session on Wednesday, 05/04, as well as on Friday, 05/06. 
-We can schedule around ten teams in the Wednesday slot and the rest in the Friday slot. 
+We will have the project presentation session on Wednesday, 05/04, as
+well as on Friday, 05/06.  We can schedule around ten teams in the
+Wednesday slot (where we will meet in person) and the rest in the
+Friday slot (where we will meet virtually on Zoom). 
 We will follow a hybrid format that is commonly used in today's
 online conferences.
 That is, each team will have strictly 15 minutes: we will play your
