@@ -117,7 +117,12 @@ Send the instructor and the GTA the video link and its passcode once it's ready.
 
 We will have the project presentation session on Wednesday, 05/04, as well as on Friday, 05/06. 
 We can schedule around ten teams in the Wednesday slot and the rest in the Friday slot. 
-We will follow a hybrid format that is commonly used in today's online conferences: we will play your recorded 10-minute talk video, followed by a 5-minute Q&A. The instructor will lead to the Q&A session, but the audience are encouraged to ask any questions. 
+We will follow a hybrid format that is commonly used in today's
+online conferences.
+That is, each team will have strictly 15 minutes: we will play your
+recorded 10-minute talk video first followed by a live, 5-minute Q&A.
+The instructor will lead the Q&A session, but the audience are
+encouraged to ask any questions. 
 
 
 
