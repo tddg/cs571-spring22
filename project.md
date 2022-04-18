@@ -103,7 +103,7 @@ As well as pay attention to:
 * Clarity of Presentation,
 * Nits (grammar, references, etc.).
 
-Your paper must be no longer than 6 pages. The paper
+Your paper must be **no longer than 6 pages and no shorter than 4 pages**. The paper
 can have as many additional pages for references and for supplemental material 
 in appendices. 
 Please format your paper using the [this template](https://github.com/tddg/cs571_report_latex_template); submissions formatted with other templates are invalid.
