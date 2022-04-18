@@ -112,7 +112,7 @@ Please format your paper using the [this template](https://github.com/tddg/cs571
 
 ### Final presentation
 
-Please prepare a 10-minute presentation and record your presentation (**DO NOT** exceed the 10 minute limit -- we will have penalty if you do). Check out this [Ed post](XX) on how to prepare your presentation video using Zoom. 
+Please prepare a 10-minute presentation and record your presentation (**DO NOT** exceed the 10 minute limit -- we will have penalty if you do). Check out this [Ed post](https://edstem.org/us/courses/16157/discussion/1411792) on how to prepare your presentation video using Zoom. 
 Send the instructor and the GTA the video link once it's ready. 
 
 We will have the project presentation session on Wednesday, 05/04, as well as on Friday, 05/06. 
