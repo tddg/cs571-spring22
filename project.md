@@ -4,6 +4,17 @@ title: "CS 571 Project"
 permalink: /project.html
 ---
 
+
+
+## Project Idea
+
+I will provide you with a list of ideas. You are also encouraged to
+pursue your own ideas.
+
+Project ideas are not open to public to protect students' work.  
+
+
+
 ## Deadlines
 
 1. Friday, 02/04, 23:59 pm: Form a project team
@@ -101,20 +112,17 @@ Please format your paper using the [this template](https://github.com/tddg/cs571
 
 ### Final presentation
 
-TBD
+Please prepare a 10-minute presentation and record your presentation (**DO NOT** exceed the 10 minute limit -- we will have penalty if you do). Check out this [Ed post](XX) on how to prepare your presentation video using Zoom. 
+Send the instructor and the GTA the video link once it's ready. 
+
+We will have the project presentation session on Wednesday, 05/04, as well as on Friday, 05/06. 
+We can schedule around ten teams in the Wednesday slot and the rest in the Friday slot. 
+We will follow a hybrid format that is commonly used in today's online conferences: we will play your recorded 10-minute talk video, followed by a 5-minute Q&A. The instructor will lead to the Q&A session, but the audience are encouraged to ask any questions. 
 
 
 
 ### Submission
 
-TBD
-
-
-## Project Idea
-
-I will provide you with a list of ideas. You are also encouraged to
-pursue your own ideas.
-
-Project ideas are not open to public to protect students' work.  
+Submit everything including: your **final project report** (in pdf using [this template](https://github.com/tddg/cs571_report_latex_template), **code/data** (add the code repository link in your final report), and **video** (add the video link in your final report). Check [metadata.tex](https://github.com/tddg/cs571_report_latex_template/blob/main/metadata.tex) for detail about adding links.
 
 
