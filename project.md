@@ -132,7 +132,7 @@ encouraged to ask any questions.
 
 Submit everything including: 
 
-* your **final project report** (in pdf using [this template](https://github.com/tddg/cs571_report_latex_template)), 
+* your **final project report** (in pdf) using [this template](https://github.com/tddg/cs571_report_latex_template), 
 * **code/data** (add the code repository link in your final report), 
 * and **video** (add the video link in your final report). Check [metadata.tex](https://github.com/tddg/cs571_report_latex_template/blob/main/metadata.tex) for detail about adding links.
 
