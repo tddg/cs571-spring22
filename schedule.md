@@ -249,7 +249,7 @@ a team, only one team member needs to fill the form.
 </tr>
 <tr> <!-- week of May 4 -->
   <td id="2021-5-4" class="date"><b>Week 15</b></td>
-  <td class="presentation">May 5<br/>
+  <td class="presentation">May 4<br/>
 	Wrap-up: Final project demo
 	 </td>
   <td class="nodue">May 7</td>
