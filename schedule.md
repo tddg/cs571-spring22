@@ -234,14 +234,16 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Apr 20 -->
   <td id="2021-4-20" class="date"><b>Week 13</b></td>
   <td class="distsys">Apr 20<br/>
-	<b>Lec 11:</b> MapReduce, GFS
+	<b>Lec 11:</b> MapReduce, GFS [<a href="./public/lecs/lec11-mapreduce-gfs.pdf">slides</a>] <br/>
+	<b>Reading:</b> MapReduce+GFS paper [<a href="./reading_list.html">reading list</a>]
 	</td>
   <td class="nodue">Apr 22</td>
 </tr>
 <tr> <!-- week of Apr 27 -->
   <td id="2021-4-27" class="date"><b>Week 14</b></td>
   <td class="distsys">Apr 27<br/>
-	<b>Lec 12:</b> Spark
+	<b>Lec 12:</b> Spark <br/>
+	<b>Reading:</b> Spark paper [<a href="./reading_list.html">reading list</a>]
 	</td>
   <td class="nodue">Apr 29</td>
 </tr>
