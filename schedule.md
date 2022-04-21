@@ -250,9 +250,11 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of May 4 -->
   <td id="2021-5-4" class="date"><b>Week 15</b></td>
   <td class="presentation">May 4<br/>
-	Wrap-up: Final project demo
-	 </td>
-  <td class="nodue">May 7</td>
+	Final project presentation (Session I)
+	</td>
+  <td class="nodue">May 7<br/>
+	Final project presentation (Session II)
+	</td>
 </tr>
 <tr> <!-- week of May 11 -->
   <td id="2021-5-11" class="date"><b>Week 16</b></td>
