@@ -225,6 +225,7 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Apr 13 -->
   <td id="2021-4-13" class="date"><b>Week 12</b></td>
   <td class="virt">Apr 13<br/>
+	Mini exam 2 (7:20pm - 8:20pm) <br/>
 	<b>Lec 10:</b> Virtualization (VM, container)
 	</td>
   <td class="deadline">Apr 15<br/>
