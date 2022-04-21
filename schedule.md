@@ -252,7 +252,7 @@ a team, only one team member needs to fill the form.
   <td class="presentation">May 4<br/>
 	Final project presentation (Session I)
 	</td>
-  <td class="nodue">May 7<br/>
+  <td class="presentation">May 6<br/>
 	Final project presentation (Session II)
 	</td>
 </tr>
