@@ -244,7 +244,7 @@ a team, only one team member needs to fill the form.
   <td id="2021-4-27" class="date"><b>Week 14</b></td>
   <td class="distsys">Apr 27<br/>
 	<b>Lec 12:</b> Spark <br/>
-	<b>Reading:</b> Spark paper [<a href="./reading_list.html">reading list</a>]
+	<b>Reading:</b> Spark paper [<a href="./reading_list.html">reading list</a> (Resilient Distributed Datasets)]
 	</td>
   <td class="nodue">Apr 29</td>
 </tr>
