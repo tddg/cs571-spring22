@@ -243,7 +243,7 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of Apr 27 -->
   <td id="2021-4-27" class="date"><b>Week 14</b></td>
   <td class="distsys">Apr 27<br/>
-	<b>Lec 12:</b> Spark (Resilient Distributed Datasets) <br/>
+	<b>Lec 12:</b> Spark (Resilient Distributed Datasets) [<a href="./public/lecs/lec12-spark.pdf">slides</a> (pdf)] [<a href="./public/lecs/lec12-spark.pptx">slides</a> (pptx)] <br/>
 	<b>Reading:</b> Spark paper [<a href="./reading_list.html">reading list</a>]
 	</td>
   <td class="nodue">Apr 29</td>
