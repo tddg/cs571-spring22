@@ -252,7 +252,8 @@ a team, only one team member needs to fill the form.
 <tr> <!-- week of May 4 -->
   <td id="2021-5-4" class="date"><b>Week 15</b></td>
   <td class="presentation">May 4<br/>
-	Final project presentation (Session I)
+	Final project presentation (Session I) <br/>
+	Mini exam 3 (12am, 05/04 - 11:59pm, 05/06)
 	</td>
   <td class="presentation">May 6<br/>
 	Final project presentation (Session II)
