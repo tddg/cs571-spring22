@@ -140,4 +140,4 @@ you choose to use GitHub, share it with this ID: `tddg` [[my github account](htt
 GitLab, share it with this ID: `yuecheng`), 
 * and **video** (add the video link in your final report). Check [metadata.tex](https://github.com/tddg/cs571_report_latex_template/blob/main/metadata.tex) for detail about adding links.
 
-By sending the pdf report to the teaching staff including the instructor and the GTA. 
+Send the pdf of your final report to the teaching staff including the instructor and the GTA. 
