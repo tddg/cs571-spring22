@@ -133,7 +133,7 @@ encouraged to ask any questions.
 Submit everything including: 
 
 * your **final project report** (in pdf) using [this template](https://github.com/tddg/cs571_report_latex_template), 
-* **code/data** (add the code repository link in your final report), 
+* **code/data** (add the code repository link in your final report -- make sure your code repository is private and shared only with the teaching staff, if you choose to use either GitHub or GitLab: if you choose to use GitHub, share it with this ID: `tddg` [[my github account](https://github.com/tddg)]; if you choose to use Mason GitLab, share it with this ID: `yuecheng`), 
 * and **video** (add the video link in your final report). Check [metadata.tex](https://github.com/tddg/cs571_report_latex_template/blob/main/metadata.tex) for detail about adding links.
 
-
+By sending the pdf report to the teaching staff including the instructor and the GTA. 
