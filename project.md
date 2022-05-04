@@ -132,7 +132,7 @@ encouraged to ask any questions.
 
 Submit everything including: 
 
-* your **final project report** (in pdf) using [this template](https://github.com/tddg/cs571_report_latex_template), 
+* your **final project report** (in pdf) using [this template](https://github.com/tddg/cs571_report_latex_template){:target="\_blank"}, 
 * **code/data** (add the code repository link in your final report --
 make sure your code repository is private and shared only with the
 teaching staff, if you choose to use either GitHub or GitLab: if
